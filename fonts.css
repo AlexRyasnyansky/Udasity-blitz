@@ -1,0 +1,45 @@
+@font-face{
+	font-family: Larsseit;
+	font-style: bold;
+	font-weight: normal;
+	src: url("fonts/Larsseit.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url("fonts/OpenSans-Semibold.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Open Sans Light";
+	font-style: normal;
+	font-weight: normal;
+	src: url("fonts/OpenSans-Light.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Open Sans Bold";
+	font-style: normal;
+	font-weight: normal;
+	src: url("fonts/OpenSans-bold.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Open Sans Regular";
+	font-style: normal;
+	font-weight: normal;
+	src: url("fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face{
+	font-family: "Open Sans Regular Bold";
+	font-style: normal;
+	font-weight: bold;
+	src: url("fonts/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face{
+	font-family: mirror-82;
+	font-style: normal;
+	src: url("fonts/mirror-82.otf") format("open-type");
+}
